@@ -1,0 +1,26 @@
+# Ігноруємо налаштування середовищ розробки (IDE)
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Логи та системні дампи бази даних
+*.log
+*.sql.bak
+*.dump
+.dbeaver/
+data-sources.json
+
+# Системні файли операційних систем
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Мої особисті файли
+fill_tables.py
+requirements.txt
+todo_list.md
+readme1.md
